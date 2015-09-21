@@ -60,7 +60,7 @@ public final class SubversionStep extends SCMStep {
         }
 
         @Override public String getDisplayName() {
-            return "Subversion";
+            return "SCM - Subversion";
         }
 
     }

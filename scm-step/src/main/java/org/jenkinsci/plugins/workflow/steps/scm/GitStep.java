@@ -175,7 +175,7 @@ public final class GitStep extends SCMStep {
         }
 
         @Override public String getDisplayName() {
-            return "Git";
+            return "SCM - Git";
         }
 
     }
